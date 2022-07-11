@@ -16,7 +16,7 @@ O Projetinho será: "Meu portfólio da reprograma"
 
 5- Faça o footer - com o crédito de autora do projeto.
 
-<a href="https://whatstube.com.br/wp-content/uploads/2016/10/eu-no-pc.gif"></a>
+![](https://whatstube.com.br/wp-content/uploads/2016/10/eu-no-pc.gif)
 
 **Veja como ficou:**
 
