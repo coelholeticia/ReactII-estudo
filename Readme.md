@@ -41,7 +41,7 @@ São uma nova versão para não ultilizarmos classes, pegando pequenos pedaços 
 * UseEffect 
 É o hook que nos possibilita gerar efeitos colaterais na tela quando alguma variavel modifica.
 
-**Link repositorio da aula** <a href="https://github.com/coelholeticia/On17-TodasEmTech-ReactII"></a>
+**Link repositorio da aula** <a href="https://github.com/coelholeticia/On17-TodasEmTech-ReactII"></a >
 
 
 
