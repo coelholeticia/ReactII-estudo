@@ -18,7 +18,7 @@ O Projetinho será: "Meu portfólio da reprograma"
 
 ![](https://whatstube.com.br/wp-content/uploads/2016/10/eu-no-pc.gif)
 
-**Veja como ficou:** ![](https://www.linkedin.com/posts/coelholetticia_mais-um-projeto-em-react-usando-api-do-github-activity-6952655636119588864-t8p2?utm_source=linkedin_share&utm_medium=member_desktop_web)
+[**Veja como ficou**](https://www.linkedin.com/posts/coelholetticia_mais-um-projeto-em-react-usando-api-do-github-activity-6952655636119588864-t8p2?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 ## Conteúdo abordado em aula 
 
@@ -41,7 +41,7 @@ São uma nova versão para não ultilizarmos classes, pegando pequenos pedaços 
 * UseEffect 
 É o hook que nos possibilita gerar efeitos colaterais na tela quando alguma variavel modifica.
 )
-**Link repositorio da aula** [](https://github.com/coelholeticia/On17-TodasEmTech-ReactII)
+[**Link repositorio da aula**](https://github.com/coelholeticia/On17-TodasEmTech-ReactII)
 
 
 
